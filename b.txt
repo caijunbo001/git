@@ -1,4 +1,8 @@
 代码规范
 通过github网站修改b.txt
 再次通过github修改文本内容
+<<<<<<< Updated upstream
 现在在dev分支工作-修改
+=======
+我现在是feature1分支上做的修改
+>>>>>>> Stashed changes
