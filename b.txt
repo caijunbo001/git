@@ -3,4 +3,8 @@
 再次通过github修改文本内容
 现在在dev分支工作-修改
 我现在是feature1分支上做的修改
+track b.txt
+继续修改
+添加other branch 分支后的修改
+在other branch上做的修改
 
