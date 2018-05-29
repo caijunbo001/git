@@ -4,3 +4,4 @@
 我现在是feature1分支上做的修改
 track b.txt
 继续修改
+添加other branch 分支后的修改
